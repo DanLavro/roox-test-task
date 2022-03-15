@@ -1,8 +1,10 @@
 ## Тестовое задание RooX
 
-Для запуска:
+Как запустить:
 
-```npm
+```
+git clone https://github.com/DanLavro/roox-test-task.git
+cd roox-test-task
 npm install
 npm start
 ```
