@@ -1,0 +1,26 @@
+.UserCard {
+  background-color: #f3f3f3;
+  border-radius: 8px;
+  font-size: 11px;
+  margin-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 10px;
+
+  p {
+    line-height: 1.5;
+  }
+
+  span {
+    color: #a3a3a3;
+    margin-right: 7px;
+  }
+
+  button {
+    font-size: 12px;
+    color: #4b51ef;
+    background: none;
+    border: none;
+  }
+}
