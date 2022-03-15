@@ -1,5 +1,7 @@
 ## Тестовое задание RooX
 
+Демо: https://danlavro.github.io/roox-test-task/
+
 Как запустить:
 
 ```
